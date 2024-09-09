@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://earedspie.github.io/sitemap.html.gz
+Sitemap: https://earedspie.github.io/app/sitemap.html.gz
+Sitemap: https://earedspie.github.io/assets/sitemap.html.gz
+Sitemap: https://earedspie.github.io/css/sitemap.html.gz
+Sitemap: https://earedspie.github.io/includes/sitemap.html.gz
+Sitemap: https://earedspie.github.io/item/sitemap.html.gz
+Sitemap: https://earedspie.github.io/src/sitemap.html.gz
